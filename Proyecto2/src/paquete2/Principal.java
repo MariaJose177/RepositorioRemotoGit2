@@ -7,6 +7,8 @@ public class Principal {
 		System.out.println ("Rama1 - Mensaje1");
 		System.out.println ("Rama1 - Mensaje2");
 		System.out.println ("Rama1 - Mensaje3");
+		System.out.println ("Rama2 - Mensaje1");
+		System.out.println ("Rama2 - Mensaje2");
 	}
 }
 
