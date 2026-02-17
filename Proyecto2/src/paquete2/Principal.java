@@ -10,6 +10,8 @@ public class Principal {
 		System.out.println ("Rama2 - Mensaje1");
 		System.out.println ("Rama2 - Mensaje2");
 	 System.out.println ("Desde la línea de comandos:");
+	 System.out.println ("Desde la línea de comandos:");
+
 	}
 }
 
